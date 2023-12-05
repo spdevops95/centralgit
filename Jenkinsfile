@@ -9,7 +9,7 @@ pipeline {
             }
         }
 
-        stage('Test') {
+        stage('Test'" i have done" )  {
             steps {
                 echo 'Running tests...'
                 // Add your test commands here
@@ -24,4 +24,5 @@ pipeline {
         }
     }
 }
+
 
