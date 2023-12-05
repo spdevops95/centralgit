@@ -1,28 +1,3 @@
-pipeline {
-    agent any
-
-    stages {
-        stage('Build') {
-            steps {
-                echo 'Building the project...'
-                // Add your build commands here
-            }
-        }
-
-        stage('Test')
-            steps {
-                echo 'Running tests...'
-                // Add your test commands here
-            }
-        }
-
-        stage('Deploy') {
-            steps {
-                echo 'Deploying the project...'
-                // Add your deployment commands here
-            }
-        }
-    }
-}
-
-
+hii i am dhiraj pawar 
+i have done my all study in the form of the 
+my all the best done in the all about in my best
